@@ -1,0 +1,12 @@
+C:\Users\Max\source\repos\RPGgame\RPGgame\bin\Debug\RPGgame.exe.config
+C:\Users\Max\source\repos\RPGgame\RPGgame\bin\Debug\RPGgame.exe
+C:\Users\Max\source\repos\RPGgame\RPGgame\bin\Debug\RPGgame.pdb
+C:\Users\Max\source\repos\RPGgame\RPGgame\bin\Debug\Engine.dll
+C:\Users\Max\source\repos\RPGgame\RPGgame\bin\Debug\Engine.pdb
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\RPGgame.csprojResolveAssemblyReference.cache
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\RPGgame.Properties.Resources.resources
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\RPGgame.csproj.GenerateResource.Cache
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\RPGgame.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\RPGgame.exe
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\RPGgame.pdb
+C:\Users\Max\source\repos\RPGgame\RPGgame\obj\Debug\Exrain.Exrain.resources
